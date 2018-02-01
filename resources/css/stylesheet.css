@@ -1,0 +1,55 @@
+body {
+  font-family: "Helvetica";
+}
+
+.hero {
+  background-image: url(../images/background.png);
+  text-align: center;
+  color: white;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+.hero-nav {
+  font-size: 18px;
+  color:white;
+}
+
+.process {
+  text-align: center;
+}
+
+h2.process {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+.designed {
+  text-align: center;
+}
+
+.designed h2{
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url(../images/background.png);
+}
+
+.footer,
+.footer-nav {
+  background-color: dimgray;
+  color: white;
+  font-size: 11px;
+}
